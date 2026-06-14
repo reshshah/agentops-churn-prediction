@@ -9,3 +9,4 @@ data/synthetic/members.csv
 *.egg-info/
 dist/
 .DS_Store
+repo_guide.md
